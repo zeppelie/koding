@@ -46,7 +46,7 @@ error: <class 'xmlrpclib.Fault'>, <Fault 6: 'SHUTDOWN_STATE'>: file: /usr/lib/py
 
 By default, `supervisorctl` prints output of `status` command.
 
-Example output during startup:
+Examples output during startup:
 
 ```
 environment:kloud                     STARTING
